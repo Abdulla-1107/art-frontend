@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "gallery": "Galereya",
+    "about": "Haqida",
+    "contact": "Aloqa",
+    "cart": "Savatcha"
+  },
+  "hero": {
+    "title": "Asl san'atni kashf eting",
+    "subtitle": "Bibisora tomonidan",
+    "description": "O'zbek rassomi Bibisoraning noyob rasm va raqamli asarlar to'plamini o'rganing. Har bir asar madaniyat, his-tuyg'ular va go'zallik haqida hikoya qiladi.",
+    "cta": "Galereyani ko'rish"
+  },
+  "featured": {
+    "title": "Tanlangan asarlar",
+    "viewAll": "Barcha galereyani ko'rish"
+  },
+  "gallery": {
+    "title": "San'at galereyasi",
+    "search": "Asarlarni qidirish...",
+    "filter": {
+      "all": "Hammasi",
+      "oil": "Moyli bo'yoq",
+      "watercolor": "Akvarelʹ",
+      "digital": "Raqamli san'at",
+      "mixed": "Aralash texnika"
+    }
+  },
+  "artwork": {
+    "addToCart": "Savatchaga qo'shish",
+    "price": "Narx",
+    "category": "Kategoriya",
+    "dimensions": "O'lchamlar",
+    "inCart": "Savatchada"
+  },
+  "cart": {
+    "title": "Xarid savatchasi",
+    "empty": "Savatchangiz bo'sh",
+    "continueShopping": "Xaridni davom ettirish",
+    "subtotal": "Jami",
+    "checkout": "To'lovga o'tish",
+    "remove": "O'chirish"
+  },
+  "about": {
+    "title": "Bibisora haqida",
+    "subtitle": "O'zbek rassomi va ijodiy ruh",
+    "bio": "Bibisora iqtidorli o'zbek rassomi bo'lib, uning ishlari an'anaviy Markaziy Osiyo estetikasini zamonaviy badiiy ifoda bilan birlashtiradi. Uning rasmlari o'zlik, madaniy meros va kundalik hayot go'zalligi mavzularini o'rganadi. Har bir asar ishtiyoq va batafsil e'tibor bilan yaratilgan, har bir asarni noyob xazinaga aylantiradi."
+  },
+  "contact": {
+    "title": "Bog'laning",
+    "subtitle": "Savollaringiz bormi? Sizdan eshitishdan xursand bo'laman.",
+    "name": "Ismingiz",
+    "email": "Emailingiz",
+    "message": "Xabaringiz",
+    "send": "Xabar yuborish",
+    "success": "Xabar muvaffaqiyatli yuborildi!",
+    "error": "Xabarni yuborib bo'lmadi. Iltimos, qayta urinib ko'ring."
+  },
+  "footer": {
+    "rights": "Barcha huquqlar himoyalangan.",
+    "followMe": "Kuzatib boring"
+  }
+}
